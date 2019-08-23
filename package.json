@@ -1,0 +1,27 @@
+{
+  "name": "fwt",
+  "version": "0.0.1-alpha",
+  "description": "Fetch with timeout",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jtaks/fwt.git"
+  },
+  "keywords": [
+    "fetch",
+    "timeout",
+    "cancel",
+    "abort",
+    "controller",
+    "abortcontroller"
+  ],
+  "author": "Jesse Liptak",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Jtaks/fwt/issues"
+  },
+  "homepage": "https://github.com/Jtaks/fwt#readme"
+}
